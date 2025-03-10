@@ -2,7 +2,7 @@
 #nimi=input("Mis on sinu nimi?: ")
 #vanus=int(input("Kui vana sa oled?: "))
 
-#print(f"Tere, maailm! Tervitan sind {Anora} Sa oled {20} aastat vana.")
+#print(f"Tere, maailm! Tervitan sind {nimi} Sa oled {vanus} aastat vana.")
 #print("Tere, maailm! Tervitan sind",nimi,"Sa oled",vanus,"aastat vana.")
 #print("Tere, maailm! Tervitan sind"+nimi+"\nSa oled"+str(vanus)+"aastat vana.")
 
